@@ -76,6 +76,7 @@ import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
 import dikshaLogo from "./college/diksha-logo.png";
+import dikshaHero from "./college/diksha-hero.jpeg";
 
 export {
   brainwave,
@@ -147,4 +148,5 @@ export {
   telegram,
   twitter,
   dikshaLogo,
+  dikshaHero,
 };
